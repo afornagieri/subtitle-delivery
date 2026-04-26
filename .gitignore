@@ -7,6 +7,7 @@
 *.dll
 *.so
 *.dylib
+subtitle-delivery
 
 # Test binary, built with `go test -c`
 *.test
